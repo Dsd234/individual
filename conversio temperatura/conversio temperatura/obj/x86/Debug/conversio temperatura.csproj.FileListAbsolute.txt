@@ -1,0 +1,7 @@
+C:\Users\David\Desktop\PROJECTE SO\conversio temperatura\conversio temperatura\bin\Debug\conversio temperatura.exe
+C:\Users\David\Desktop\PROJECTE SO\conversio temperatura\conversio temperatura\bin\Debug\conversio temperatura.pdb
+C:\Users\David\Desktop\PROJECTE SO\conversio temperatura\conversio temperatura\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\David\Desktop\PROJECTE SO\conversio temperatura\conversio temperatura\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\David\Desktop\PROJECTE SO\conversio temperatura\conversio temperatura\obj\x86\Debug\conversio temperatura.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\PROJECTE SO\conversio temperatura\conversio temperatura\obj\x86\Debug\conversio temperatura.exe
+C:\Users\David\Desktop\PROJECTE SO\conversio temperatura\conversio temperatura\obj\x86\Debug\conversio temperatura.pdb
